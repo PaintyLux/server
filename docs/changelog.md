@@ -1,1 +1,1 @@
-## PaintyLux Changelog (2026-09-01)
+## PaintyLux Changelog (2026-09-15)
